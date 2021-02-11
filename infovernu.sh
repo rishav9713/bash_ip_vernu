@@ -1,5 +1,5 @@
 #! /usr/bin/bash
-# made by lazy_robot
+# made with lazy_robot
 red=`tput setaf 1`
 green=`tput setaf 2`
 reset=`tput sgr0`
